@@ -20,7 +20,7 @@ body {
 .container h1 a {
   display: inline-block;
   background: #000;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(249, 246, 246, 0.20);
   padding: 10px 15px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
